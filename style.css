@@ -3,8 +3,13 @@
   background-color: #e2edff;
 }
 
+#tentang {
+  overflow: hidden;
+}
+
 #sosmed {
   background-color: #e2edff;
+  overflow: hidden;
 }
 
 section {
